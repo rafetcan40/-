@@ -1,0 +1,135 @@
+Status (Hizmet Durumu)   Meta Puanı alırken hesabınıza aktarılmamasından haberdarız.- Çözüm için çalışmalarımız Sürüyor.
+İnfo :Mp Sistemi'nden kaynaklanan kazanımlarının gecikmesinden dolayı gün içerisinde giriş yapan herkese +100 MP verilecektir.
+MetHa LoL App - Sürüm Notları
+*** - 0.4.7 *** 28.10.2018 
+=> Yenilikler
+-* Yeni  Date
+-* Yeni  Syser
+-* Yeni  Logs
+=> Değişiklikler
+- Hata Raporlama V3 (Detaylar)
+- Size atanan kullanıcı adını artık değiştirebileceksiniz.
+=> Düzeltmeleri
+- Gereksiz Kodlar Temizlendi.
+
+
+*** - 0.4.6 *** 14.10.2018 
+=> Yenilikler
+-* Yeni Settings
+=> Değişiklikler
+- Screen Load v2 (detaylar için tıklayınız)
+- Ping Ölçer'i başlattığında başladığını anlamanız için ufak not
+- Hata Bildir' resim Eklemesi Kaldırıldı.(yeni destek sistemi geliyor)
+
+
+*** - 0.4.5 *** 3.10.2018 
+=> Yenilikler
+-* Yeni MP Sistemi
+-* Yeni Üyelik Sistemi
+=> Hata düzeltmeleri
+- Sihirdar Arama'yı sihirdar ismi ve sunucusunu girmeden çalışmasına neden olan hata düzeltildi.
+- Ping Ölçer'de sunucu seçmeden "Başlat" dedikten sonra sunucuların seçilmemesine neden olan hata düzeltildi.
+- İnternet bağlantınız olmadan Ping Ölçme'ye ve Hata Bildirme'ye çalışmanıza neden olan hata düzeltildi.
+
+
+*** - 0.4.4 *** 19.09.2018 
+=> Yenilikler
+-* Yeni Terimler Sözlüğü
+-* Yeni Yükleme Ekranı
+- Meta'daki Şampiyonlardan birine tıklayara o heronun buildine ulaşabilirsiniz.
+=> Değişiklikler
+- Menüler Veritabanına Bağlandı. 
+- Hata Detayları Artık Bildirilmeyecek. 
+=> Hata düzeltmeleri
+- Veritabanlı hatalarda uygulamanın çalışmaya devam etmesine neden olan hata giderildi.
+- Uygulamanın defalarca açılmasına neden olan hata düzeltildi.
+- Sihirdar Aramanın 1 kez Çalışmasına neden olan sorun düzeltildi.(H026)
+
+
+*** - 0.4.3b - Fix*** 11.09.2018 
+=> Hata düzeltmeleri
+-Güncelleme Sisteminin Çalışmamasına Neden Olan Hata Düzeltildi. 
+
+
+*** - 0.4.3 *** 10.09.2018 
+=> Yenilikler
+-* Yeni Dosya Kontrol Sistemi
+-* Yeni Uygulama Logosu ve Simgesi
+=> Değişiklikler
+- Sihirdar Büyüleri Menüsü Düzenlendi.
+- Meta'daki şampiyonlar değiştiğinde uygulama içerisindeki şampiyonları değiştirmek için artık uygulama tamamen güncellenmeyecek.
+- Oyun İstatisleri'nin Genişliği Düzenlendi - Genişliği: 900 => 1000
+- Uygulama Simgesi Değiştirildi.
+=> Hata düzeltmeleri
+- Hata Bildirin tekrar çalışmamasına neden olan bir hata düzeltildi.
+- İlk oyundan sonraki oyunlarda Oyun İstatisliklerin Çalışmaması Düzeltildi.
+- MetHa.ico dosyası bir şekilde silindikten sonra uygulamanın çalışmasına neden olan hata düzeltildi..
+
+
+*** - 0.4.2 *** 01.09.2018 - 8.17
+=> Yenilikler
+- Oyun Güncellemeleri (Haberler) Menüsü Eklendi - (Son Oyun Güncellemeleri ve Haberler hakkında bilgi alabileceksiniz.)
+-* New Oyun İstatislikleri - Oyuna girerken otomatik olarak oyun istatisliklerini görebileceksnz
+-* New Duyurular Eklendi - (MetHa LoL hakkındaki duyuruları görebileceksz)
+=> Değişiklikler
+- Menü Düzenlendi.
+- Hata Raporlama Güncellendi (v2)
+- 8.17 Meta Şampiyonları Güncellendi.
+=> Hata düzeltmeleri
+- Ping Ölçer,Haritalar ve Hata Bildirin Defalarca Açılmasına Neden Olan Hata Giderildi.
+
+
+*** - 0.4.1 *** 23.08.2018
+=> Yenilikler
+- İsim Kontrol Menüsü Eklendi. Artık Size uygun ismi kontrol edebilir.Müsait ise bu ismi kendinize alabilirsiniz
+- Haritalar Menüsü Eklendi.
+- Terimler Sözlüğü Eklendi - Oyunda kullanılan terimlerin neler olduğunu ve ne anlama geldiğini öğrenebilirsinz.
+- Sohbet Komutları Eklendi - Oyun sırasında diğer oyuncularla iletişim kurmak için belli başlı komutları bulabilirsiz.
+- Oyun Modları Eklendi - Tüm oyun modları hakkında bilgi
+-* New Hata Raporlama Sistemi
+=> Değişiklikler
+- Hata Bildir Güncellendi (v2)
+=> Hata düzeltmeleri
+- Ping Ölçer Sunucu pinglerinin birbirine girmesine neden olan hata giderildi.
+
+
+*** - 0.4 - *** (17.08.2018) - 8.16
+=> Yenilikler
+- Yeni Oyun Bilgisi Menüsü Eklendi.
+   - Şampiyolar
+   - Eşyalar
+   - Rünler
+   - Sihirdar Büyüleri
+- Yeni E-Spor Menüsü Eklendi.
+   - Takımlar 
+
+=> Düzenlemeler
+- 8.16 Meta Şampiyonları Güncellendi.
+- Anasayfa Düzenlendi.
+- Ping Ölçerin donmasına neden olan hata giderildi.
+- Güncelleme sistemi düzenlendi.
+   - Güncel olmayan uygulama artık açılmayacak.
+   - Güncelleme Sistemine erişemeyen uygulama açılmayacak.(kaynak domaine)
+
+
+*** - 0.3 - *** 04.08.2018 - 8.15
+=> Yenilikler
+- Hata bildirme sistemi v1
+- Artık Ping geçmişini takip edebileceksiniz.
+- Hakkında Bilgisini görebileceksnz.
+
+=> Düzenlemeler
+- 8.15 Meta Şampiyonları Güncellendi.
+- Görsel iyileştirmeler
+
+
+*** - 0.2 - *** 
+=> Yenilikler
+- Hero buildlerine ve istatisliklerine ulaşabileceğiniz yeni menü
+- Artık güncel yama notlarına ulaşabileceksnz
+
+=> Düzenlemeler
+- 8.14 Meta Şampiyoları Güncellendi.
+- Otomatik Güncelleme Sistemi Güncellendi.
+Notlar:
+1)Kırmızı üstü çizili özellikler iptal edilmiş veya ileri tarihte tekrar açılması planlanan özelliklerdir.
